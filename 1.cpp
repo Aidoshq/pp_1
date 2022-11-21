@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//a
 int main () {
 int n , r , l;
 int sum1=0 , sum2=0;
